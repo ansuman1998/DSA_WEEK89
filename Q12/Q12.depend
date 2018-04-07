@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522516808 source:c:\users\asus\desktop\q12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
